@@ -1,0 +1,25 @@
+{
+  "name": "fast-copy-file",
+  "version": "0.0.1",
+  "description": "Simple file copying",
+  "homepage": "https://github.com/callumlocke/fast-copy-file",
+  "bugs": "https://github.com/callumlocke/fast-copy-file/issues",
+  "author": {
+    "name": "Callum Locke"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumlocke/fast-copy-file"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "graceful-fs": "~2.0.1"
+  }
+}
